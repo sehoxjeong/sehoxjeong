@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=011F5B&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=120&section=header" />
 
 ### Hello World! 👋
 I study **Financial Economics** at South Korea. <br>
