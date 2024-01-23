@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=&color=&height=&section=header&text=&fontSize=" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=002952&height=120&section=header&text=Hello%World!&fontSize=40" />
 ### Hello World! 👋
 I study **Financial Economics** at South Korea. <br>
 안녕하세요. <br>
