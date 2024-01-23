@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=002952&height=120&section=header&text=Hello%World!&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=002952&height=120&section=header&text=Hello%World!&fontSize=40" />
 ### Hello World! 👋
 I study **Financial Economics** at South Korea. <br>
 안녕하세요. <br>
 **금융경제학**을 공부하는 **정세호**입니다.
-<img src="https://capsule-render.vercel.app/api?type=&color=&height=&section=footer&text=&fontSize=" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=002952&height=120&section=footer&text=Hello%World!&fontSize=40" />
