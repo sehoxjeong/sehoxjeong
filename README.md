@@ -6,7 +6,7 @@ I study **Financial Economics** at South Korea. <br>
 **금융경제학**을 공부하는 **정세호**입니다.
 
 ### Research Interests
-#### macrofinance
+#### Macrofinance
 (Introduction to be Updated.)
 #### Private debt 
 (Introduction to be Updated.)
