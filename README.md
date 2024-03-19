@@ -1,42 +1,42 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=header" />
 
-### Hello World! 👋
+## Hello World! 👋
 I'm **Seho Jeong** and I study **financial economics**.
 
 *I believe the sum is greater than its parts, and the difference comes from the connectedness.*
 
 
-### 🤩 Research Interests
-#### Macrofinance
+## 🤩 Research Interests
+### Macrofinance
 (Introduction to be Updated.)
-#### Private debt 
+### Private debt 
 (Introduction to be Updated.)
 household debt and corporate debt
-#### Financial intermediations
+### Financial intermediations
 (Introduction to be Updated.)
-#### Network analysis
+### Network analysis
 (Introduction to be Updated.)
 
 
-### 👨‍🎓 Education
+## 👨‍🎓 Education
 \[1\] **Sogang University** B.E. in Economics; B.Sc. in Mathematics (2019 - present)
 
 
-### 😎 Skills
-#### Programming
+## 😎 Skills
+### Programming
 (To be Updated.)
-#### Languages
+### Languages
 (To be Updated.)
 
 
-### 📑 Research Projects
+## 📑 Research Projects
 |Date   |Topics                  |Results |Link|
 |:------|:-----------------------|:-------|:------:|
 |2024-01|Test                    |Test    |[link]()|
 |2024-01|Test                    |Test    |[link]()|
 
 
-### 🧑‍🏫 Study Groups
+## 🧑‍🏫 Study Groups
 |Date   |Topics                  |Link|
 |:------|:-----------------------|:------:|
 |2024-01|Economic Networks       |[link]()|
