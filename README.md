@@ -19,7 +19,7 @@ household debt and corporate debt
 
 
 ## 👨‍🎓 Education
-\[1\] **Sogang University** B.E. in Economics; B.Sc. in Mathematics (2019 - present)
+\[1\] **Sogang University** B.E. in `Economics`; B.Sc. in `Mathematics` (2019 - present)
 
 
 ## 😎 Skills
