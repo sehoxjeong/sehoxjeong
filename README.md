@@ -30,14 +30,14 @@ household debt and corporate debt
 
 
 ## 📑 Research Projects
-|Date   |Topics                  |Results |Link|
+|Date   |Title                   |Results |Link|
 |:------|:-----------------------|:-------|:------:|
 |2024-01|Test                    |Test    |[link]()|
 |2024-01|Test                    |Test    |[link]()|
 
 
 ## 🧑‍🏫 Study Groups
-|Date   |Topics                  |Link|
+|Date   |Title                   |Link|
 |:------|:-----------------------|:------:|
 |2024-01|Economic Networks       |[link]()|
 |2024-01|Computational Economics |[link]()|
