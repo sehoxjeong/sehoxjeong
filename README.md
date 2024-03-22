@@ -34,8 +34,8 @@ household debt and corporate debt
 ## 📑 Research Projects
 |Date   |Title                   |Results |Link|
 |:------|:-----------------------|:-------|:------:|
-|2024-01|Test                    |Test    |[link]()|
-|2024-01|Test                    |Test    |[link]()|
+|2023-01|Constructing KOSPI Fear&Greed Index and its Predictability on KOSPI |Final term paper for Financial Market Analysis (ECO4032)    |[link]()|
+|2020-01|Beveridge Curve Worldwide  |Final term paper for Introduction to Big Data Programming (STS2011)  |[link]()|
 
 
 ## 🧑‍🏫 Study Groups
