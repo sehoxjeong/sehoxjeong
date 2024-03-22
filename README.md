@@ -14,7 +14,7 @@ I'm **Seho Jeong** and I study **financial economics**.
 household debt and corporate debt
 ### Financial intermediations
 (Introduction to be Updated.)
-### Network analysis
+### Network models and analysis
 (Introduction to be Updated.)
 
 
