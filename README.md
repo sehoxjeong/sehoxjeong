@@ -34,14 +34,14 @@ Financial institutions, financial stability, securitization, etc.
 
 
 ## 📑 Research Projects
-|Date   |Title                   |Results |Link|
-|:------|:-----------------------|:-------|:------:|
-|2023-01|Constructing KOSPI Fear&Greed Index and its Predictability on KOSPI |Final term paper for Financial Market Analysis (ECO4032)    |[link]()|
-|2020-01|Beveridge Curve Worldwide  |Final term paper for Introduction to Big Data Programming (STS2011)  |[link]()|
+|Date   |Title                                                               |Results                                                              |Link|
+|:------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|:------:|
+|2023-01|Constructing KOSPI Fear&Greed Index and its Predictability on KOSPI |Final term paper for Financial Market Analysis (ECO4032)             |[link]()|
+|2020-01|Beveridge Curve Worldwide                                           |Final term paper for Introduction to Big Data Programming (STS2011)  |[link]()|
 
 
-## 🧑‍🏫 Study Groups
-|Date   |Title                   |Link|
+## 🧑‍🏫 Currently Studying
+|Date   |Subjects                |Link|
 |:------|:-----------------------|:------:|
 |2024-01|Economic Networks       |[link]()|
 |2024-01|Computational Economics |[link]()|
