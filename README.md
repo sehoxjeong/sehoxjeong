@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=header" />
 
 ## Hello World! 👋
-I'm **Seho Jeong** and I study **financial economics**.
+I'm **Seho Jeong** and I study **financial economics** and **macroeconomics**.
 
 *I believe the sum is greater than its parts, and the difference comes from the connectedness.*
 
