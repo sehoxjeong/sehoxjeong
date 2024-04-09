@@ -9,15 +9,16 @@ I'm **Seho Jeong** and I study **financial economics** and **macroeconomics**.
 ## 🤩 Research Interests
 ### Macrofinance
 (Introduction to be Updated.)
-Interconnection between the Wall Street and the Main Street
-### Private debt 
+Interconnection between the Wall Street and the Main Street. Financial markets and business cycles.
+### Private debt
 (Introduction to be Updated.)
-household debt and corporate debt
+Household debt and corporate debt.
 ### Financial intermediations and stability
 (Introduction to be Updated.) 
-Financial institutions, financial stability, securitization, systemic risk, etc.
+Banks and other financial institutions, financial stability, securitization, systemic risk, etc.
 ### Network models and analysis
 (Introduction to be Updated.) 
+Modeling interconnectedness, contagion effects, peer effects or any other interactions among economic agents via networks.
 
 
 ## 👨‍🎓 Education
