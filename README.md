@@ -37,15 +37,15 @@ Modeling interconnectedness, contagion effects, peer effects or any other intera
 ## 📑 Research Projects
 |Date   |Title                                                               |Results                                                              |Link|
 |:------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|:------:|
-|2023-01|An Analysis of Investor Behavior Patterns Preceding KOSPI Market Downturns |Final term paper for Financial Market Analysis (ECO4032)             |[link](https://github.com/zogvc/kospi-fear-and-greed-index)|
-|2020-01|Beveridge Curve Worldwide                                           |Final term paper for Introduction to Big Data Programming (STS2011)  |[link]()|
+|JUN2023|An Analysis of Investor Behavior Patterns Preceding KOSPI Market Downturns |Final term paper for Financial Market Analysis (ECO4032)             |[link](https://github.com/zogvc/kospi-fear-and-greed-index)|
+|JUN2020|Beveridge Curve Worldwide                                           |Final term paper for Introduction to Big Data Programming (STS2011)  |[link]()|
 
 
 ## 🧑‍🏫 Currently Studying
 |Date   |Subjects                |Link|
 |:------|:-----------------------|:------:|
-|2024-01|Economic Networks       |[link](https://github.com/zogvc/economic-networks)|
-|2024-01|Computational Economics |[link](https://github.com/zogvc/computational-economics)|
+|MAR2024|Economic Networks       |[link](https://github.com/zogvc/economic-networks)|
+|MAR2024|Computational Economics |[link](https://github.com/zogvc/computational-economics)|
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=footer" />
