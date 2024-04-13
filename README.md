@@ -15,10 +15,13 @@ Interconnection between the Wall Street and the Main Street. Financial markets a
 Household debt and corporate debt.
 ### Financial intermediations and stability
 (Introduction to be Updated.) 
-Banks and other financial institutions, financial stability, securitization, systemic risk, etc.
+Banks and other financial institutions, fintech, financial stability, securitization, systemic risk, etc.
 ### Network models and analysis
 (Introduction to be Updated.) 
 Modeling interconnectedness, contagion effects, peer effects or any other interactions among economic agents via networks.
+### Machine Learning
+(Introduction to be Updated.) 
+Machine learning, deep learning, and reinforcement learning for macroeconomics and finance.
 
 
 ## 👨‍🎓 Education
