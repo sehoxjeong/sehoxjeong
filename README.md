@@ -42,7 +42,7 @@ Machine learning, deep learning, and reinforcement learning for macroeconomics a
 ## 📑 Short Term Projects
 |Date   |Title                                                                         |Results                                                              |Link|
 |:------|:-----------------------------------------------------------------------------|:--------------------------------------------------------------------|:------:|
-|JUN2024|**Revealing nonlinear relationship among non-financial firms in South Korea** |Term paper for Applied Statisitcs with Computer (MAT3430)            |[link]()|
+|JUN2024|**Revealing nonlinear relationships among non-financial firms in South Korea**|Term paper for Applied Statisitcs with Computer (MAT3430)            |[link]()|
 |JUN2023|**An analysis of investor behavior patterns preceding KOSPI market downturns**|Term paper for Financial Market Analysis (ECO4032)                   |[link](https://github.com/zogvc/kospi-fear-and-greed-index)|
 |JUN2020|**Beveridge curve worldwide**                                                 |Term paper for Introduction to Big Data Programming (STS2011)        |[link]()|
 
