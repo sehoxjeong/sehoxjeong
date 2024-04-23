@@ -3,6 +3,8 @@
 ## Hello World! 👋
 I'm **Seho Jeong** and I study **financial economics** and **macroeconomics**.
 
+With a strong academic background and a passion for research, I am eager to pursue a Ph.D. in Economics, Finance, or a related field.
+
 *I believe the sum is greater than its parts, and the difference comes from the connectedness.*
 
 
@@ -37,18 +39,15 @@ Machine learning, deep learning, and reinforcement learning for macroeconomics a
 - `English`
 
 
-## 📑 Research Projects
+## 📑 Short Term Projects
 |Date   |Title                                                               |Results                                                              |Link|
 |:------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|:------:|
-|JUN2023|An Analysis of Investor Behavior Patterns Preceding KOSPI Market Downturns |Final term paper for Financial Market Analysis (ECO4032)             |[link](https://github.com/zogvc/kospi-fear-and-greed-index)|
-|JUN2020|Beveridge Curve Worldwide                                           |Final term paper for Introduction to Big Data Programming (STS2011)  |[link]()|
+|JUN2024|Revealing non-linear relationship among non-financial firms in South Korea|Term paper||
+|JUN2023|An analysis of investor behavior patterns preceding KOSPI market downturns |Term paper for Financial Market Analysis (ECO4032)             |[link](https://github.com/zogvc/kospi-fear-and-greed-index)|
+|JUN2020|Beveridge curve worldwide                                           |Term paper for Introduction to Big Data Programming (STS2011)  |[link]()|
 
-
-## 🧑‍🏫 Currently Studying
-|Date   |Subjects                |Link|
-|:------|:-----------------------|:------:|
-|MAR2024|Economic Networks       |[link](https://github.com/zogvc/economic-networks)|
-|MAR2024|Computational Economics |[link](https://github.com/zogvc/computational-economics)|
+## ✉️ Contact
+Please feel free to reach out to me by email at **seho6549@sogang.ac.kr** or **seho6549@naver.com**
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=footer" />
