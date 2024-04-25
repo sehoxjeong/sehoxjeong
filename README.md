@@ -34,7 +34,7 @@ Machine learning, deep learning, and reinforcement learning for macroeconomics a
 
 ## 😎 Skills
 ### Softwares & Programming languages
-- `Python`
+- `Python` 
 - `Matlab`
 ### Languages
 - `Korean`
