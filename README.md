@@ -27,7 +27,7 @@ Machine learning, deep learning, and reinforcement learning for macroeconomics a
 
 
 ## 👨‍🎓 Education
-\[1\] **Sogang University** B.E. in *Economics*; B.Sc. in *Mathematics* (2019 - present)
+\[1\] **Sogang University**, Seoul, South Korea. B.E. in *Economics*; B.Sc. in *Mathematics* (2019 - present)
 > - Honors in *Financial Economics* <br>
 > - Completed *Financial Economics track* and *Econometrics track*
 
