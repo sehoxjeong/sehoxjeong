@@ -50,7 +50,7 @@ Machine learning, deep learning, and reinforcement learning for macroeconomics a
 
 
 ## 😶‍🌫️ Miscellaneous
-- Founding member and vice president of **Quantifi** ([🔗](https://github.com/QuantifiSogang)) (2023 - present)
+[1] Founding member and vice president of **Quantifi** ([🔗](https://github.com/QuantifiSogang)) (2023 - present)
 > - Team lead of *Macrofinance Lab* (2024 - present)
 
 ## ✉️ Contact
