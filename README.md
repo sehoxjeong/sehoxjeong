@@ -5,7 +5,7 @@ I'm **Seho Jeong** and I study **financial economics** and **macroeconomics**.
 
 With a strong academic background and a passion for research, I am eager to pursue a Ph.D. in Economics, Finance, or a related field.
 
-*I believe the sum is greater than its parts, and the difference comes from the connectedness.*
+*I believe the sum is greater than its parts, and the difference originates from the connectedness.*
 
 
 ## 🤩 Research Interests
