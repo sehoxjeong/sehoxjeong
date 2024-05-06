@@ -23,7 +23,7 @@ Banks and other financial institutions, fintech, financial stability, securitiza
 Modeling interconnectedness, contagion effects, peer effects or any other interactions among economic agents via networks.
 ### Applications of machine learning
 (Introduction to be Updated.) 
-Machine learning, deep learning, and reinforcement learning for macroeconomics and finance.
+Machine learning for macroeconomics and finance.
 
 
 ## 👨‍🎓 Education
