@@ -11,7 +11,7 @@ With a strong academic background and a passion for research, I am eager to purs
 ## 🤩 Research Interests
 ### Macrofinance
 (Introduction to be Updated.)
-Interconnection between the Wall Street and the Main Street. Financial markets and business cycles.
+Interconnection between the Wall Street and the Main Street. Financial markets and business cycles. Firm dynamics with financial frictions.
 ### Private debt
 (Introduction to be Updated.)
 Household debt and corporate debt.
