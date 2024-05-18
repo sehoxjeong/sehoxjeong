@@ -15,7 +15,7 @@ I am interested in **how firms' financial decision making process affects the ec
 Interconnection between the Wall Street and the Main Street. Financial markets and business cycles. Firm dynamics with financial frictions.
 ### Corporate finance & Household finance
 (Introduction to be Updated.)
-Individual decision making on financial problem.
+Individual decision making on financial problem. Primarily on debt financing.
 ### Financial intermediations and stability
 (Introduction to be Updated.) 
 Banks and other financial institutions, fintech, financial stability, securitization, systemic risk, etc.
