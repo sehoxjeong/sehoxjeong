@@ -9,12 +9,13 @@ With a strong academic background and a passion for research, I am eager to purs
 
 
 ## 🤩 Research Interests
+I am interested in **how firms' financial decision making process affects the economy**. 
 ### Macrofinance
 (Introduction to be Updated.)
 Interconnection between the Wall Street and the Main Street. Financial markets and business cycles. Firm dynamics with financial frictions.
-### Private debt
+### Corporate finance & Household finance
 (Introduction to be Updated.)
-Household debt and corporate debt.
+Individual decision making on financial problem.
 ### Financial intermediations and stability
 (Introduction to be Updated.) 
 Banks and other financial institutions, fintech, financial stability, securitization, systemic risk, etc.
