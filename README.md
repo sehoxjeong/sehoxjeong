@@ -57,7 +57,7 @@ Machine learning for macroeconomics and finance.
 ## ✉️ Contact
 Please feel free to reach out to me by email at **seho6549@sogang.ac.kr** or **seho6549@naver.com**
 
-For more detailed info on my research, please visit my [website](https://zogvc.github.io/)!
+For more detailed info on my research, please visit my [**website**](https://zogvc.github.io/)!
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=footer" />
