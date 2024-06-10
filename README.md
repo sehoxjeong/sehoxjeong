@@ -45,7 +45,7 @@ Machine learning for macroeconomics and finance.
 ## 📑 Short Term Projects
 |Date   |Title                                                                         |Results                                                              |Link|
 |:------|:-----------------------------------------------------------------------------|:--------------------------------------------------------------------|:------:|
-|JUN2024|**(Ongoing)**|Term paper for Topics in Economics Fluctuations (ECO6023)  |[🔗]()|
+|JUN2024|**(Ongoing)**|Term paper for Topics in Economic Fluctuations (ECO6023)  |[🔗]()|
 |JUN2024|**(Ongoing)**|Term paper for Applied Statisitcs with Computer (MAT3430)  |[🔗]()|
 |JUN2023|**An analysis of investor behavior patterns preceding KOSPI market downturns**|Term paper for Financial Market Analysis (ECO4032)                   |[🔗](https://github.com/zogvc/kospi-fear-and-greed-index)|
 |JUN2020|**Beveridge curve worldwide**                                                 |Term paper for Introduction to Big Data Programming (STS2011)        |[🔗](https://github.com/zogvc/beveridge-curve-worldwide)|
