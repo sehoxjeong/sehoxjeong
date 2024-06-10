@@ -60,5 +60,6 @@ Please feel free to reach out to me by email at **seho6549@sogang.ac.kr** or **s
 
 For more detailed info on my research, please visit my [**webpage**](https://zogvc.github.io/)!
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzogvc&count_bg=%239A9A9A&title_bg=%231D78F3&icon=github.svg&icon_color=%23E7E7E7&title=Welcome%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=footer" />
