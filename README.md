@@ -51,6 +51,12 @@ Machine learning for macroeconomics and finance.
 |JUN2020|**Beveridge curve worldwide**                                                 |Term paper for Introduction to Big Data Programming (STS2011)        |Revised JUL2024|[🔗](https://github.com/zogvc/beveridge-curve-worldwide)|
 
 
+## 📑 Replications
+|No.   |Main Reference                                                                |Note                                                                 |Link   |
+|:----:|:-----------------------------------------------------------------------------|:--------------------------------------------------------------------|:-----:|
+|01|To Be Updated|To Be Updated|[🔗]()|
+
+
 ## 😶‍🌫️ Miscellaneous
 [1] Founding member and vice president of **Quantifi** ([🔗](https://github.com/QuantifiSogang)) (2023 - present)
 > - Team lead of *Macrofinance Lab* (2024 - present)
