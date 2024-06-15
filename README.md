@@ -51,7 +51,7 @@ Machine learning for macroeconomics and finance.
 |JUN2020|**Beveridge curve worldwide**                                                 |<ul> <li>Term paper for Introduction to Big Data Programming (STS2011)</ul>        |Revised JUL2024|[🔗](https://github.com/zogvc/beveridge-curve-worldwide)|
 
 
-## 📑 Replications
+## 🧑‍🏫 Replications
 |No.   |Main Reference                                                                |Note                                                                 |Link   |
 |:----:|:-----------------------------------------------------------------------------|:--------------------------------------------------------------------|:-----:|
 |01|To Be Updated|To Be Updated|[🔗]()|
