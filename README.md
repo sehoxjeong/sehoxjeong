@@ -46,7 +46,7 @@ Machine learning for macroeconomics and finance.
 |Date   |Title                                                                         |Results                                                              |Note|Link|
 |:------|:-----------------------------------------------------------------------------|:--------------------------------------------------------------------|:-----|:------:|
 |JUN2024|**(Ongoing)**|<ul> <li> Term paper for Topics in Economic Fluctuations (ECO6023) </ul> | |[🔗]()|
-|JUN2024|**Multi-layer perceptron for macroeconomic forecasting**|<ul> <li>Final project for Applied Statisitcs with Computer (MAT3430) <li>MATLAB AI Challenge 2024</ul>  | Revised JUL2024|[🔗](https://github.com/zogvc/mlp-for-macroforecasting)|
+|JUN2024|**Multi-layer perceptron for macroeconomic forecasting and causal inference**|<ul> <li>Final project for Applied Statisitcs with Computer (MAT3430) <li>MATLAB AI Challenge 2024</ul>  | Revised JUL2024|[🔗](https://github.com/zogvc/mlp-for-macroforecasting)|
 |JUN2023|**An analysis of investor behavior patterns preceding KOSPI market downturns**|<ul> <li>Term paper for Financial Market Analysis (ECO4032)</ul>                   |Revised JUL2024|[🔗](https://github.com/zogvc/kospi-fear-and-greed-index)|
 |JUN2020|**Beveridge curve worldwide**                                                 |<ul> <li>Term paper for Introduction to Big Data Programming (STS2011)</ul>        |Revised JUL2024|[🔗](https://github.com/zogvc/beveridge-curve-worldwide)|
 
