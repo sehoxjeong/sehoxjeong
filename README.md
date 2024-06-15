@@ -30,7 +30,7 @@ Machine learning for macroeconomics and finance.
 ## 👨‍🎓 Education
 \[1\] **Sogang University**, Seoul, South Korea. B.E. in *Economics*; B.Sc. in *Mathematics* (2019 - present)
 > - Honors in *Financial Economics* <br>
-> - Completed *Financial Economics track* and *Econometrics track*
+> - Completion of *Financial Economics track* and *Econometrics track*
 
 
 ## 😎 Skills
