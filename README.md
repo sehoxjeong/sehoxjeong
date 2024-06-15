@@ -9,7 +9,7 @@ With a strong academic background and a passion for research, I am eager to purs
 
 
 ## 🤩 Research Interests
-I am interested in **how firms' financial decision making affects the economy**. 
+I am interested in **how firms' financial decision making affects the economy or vice versa**. 
 ### Macrofinance
 (Introduction to be Updated.)
 Interconnection between the Wall Street and the Main Street. Financial markets and business cycles. Firm dynamics with financial frictions.
