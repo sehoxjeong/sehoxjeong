@@ -42,7 +42,10 @@ Machine learning for macroeconomics and finance.
 - `English`
 
 
-## 📑 Short Term Projects
+## 🧑‍💻 Short-Term Projects
+
+Short-term projects (within 6 months) completed for non-academic objectives (e.g., assignments, competitions, self-initiated learning).
+
 |Date   |Title                                                                         |Results                                                              |Note|Link|
 |:------|:-----------------------------------------------------------------------------|:--------------------------------------------------------------------|:-----|:------:|
 |JUN2024|**(Ongoing)**|<ul> <li> Term paper for Topics in Economic Fluctuations (ECO6023) </ul> | |[🔗]()|
