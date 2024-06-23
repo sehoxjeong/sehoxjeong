@@ -12,9 +12,10 @@ With a strong academic background and a passion for research, I am eager to purs
 I am interested in **how firms' financial decision making affects the economy or vice versa**. 
 ### Macrofinance
 (Introduction to be Updated.)
-Interconnection between the Wall Street and the Main Street. Financial markets and business cycles. Firm dynamics with financial frictions.
+Interconnection between the Wall Street and the Main Street. Financial markets and business cycles. 
 ### Corporate finance & Household finance
 (Introduction to be Updated.)
+Firm dynamics with financial frictions.
 Individual decision making on financial problem. Primarily on debt financing.
 ### Financial intermediations and stability
 (Introduction to be Updated.) 
