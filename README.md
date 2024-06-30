@@ -58,7 +58,7 @@ Short-term projects (within 6 months) completed for non-academic objectives (e.g
 ## 🧑‍🏫 Replications
 |No.   |Main Reference                                                                |Note                                                                 |Link   |
 |:----:|:-----------------------------------------------------------------------------|:--------------------------------------------------------------------|:-----:|
-|01|To Be Updated|To Be Updated|[🔗]()|
+|01|Monica Billio, Mila Getmansky, Andrew W. Lo, Loriana Pelizzon. 2012. "Econometric measures of connectedness and systemic risk in the finance and insurance sectors." Journal of Financial Economics 104:535-559.||[🔗](https://github.com/zogvc/billio-etal-2012-econometric-measures-of-connectedness)|
 
 
 ## 😶‍🌫️ Miscellaneous
