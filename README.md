@@ -63,6 +63,7 @@ Short-term projects (within 6 months) completed for non-academic objectives (e.g
 
 ## 😶‍🌫️ Miscellaneous
 [1] Currently studying: `computational economics`, `econometrics` (Summer 2024).
+
 [2] Founding member and vice president of **Quantifi** ([🔗](https://github.com/QuantifiSogang)) (2023 - present)
 > - Team lead of *Macrofinance Lab* (2024 - present)
 
