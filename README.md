@@ -38,6 +38,7 @@ Machine learning for macroeconomics and finance. For both theoretical and empiri
 ### Softwares & Programming languages
 - `Python` 
 - `Matlab`
+- `Julia`
 ### Languages
 - `Korean`
 - `English`
