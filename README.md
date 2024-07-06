@@ -60,7 +60,7 @@ Short-term projects (within 6 months) completed for non-academic objectives (e.g
 |No.   |Main Reference                                                                |Progress    |Link   |
 |:----:|:-----------------------------------------------------------------------------|:-------------|:-----:|
 |01|Monica Billio, Mila Getmansky, Andrew W. Lo, Loriana Pelizzon. 2012. **"Econometric measures of connectedness and systemic risk in the finance and insurance sectors."** Journal of Financial Economics 104:535-559.|![](https://geps.dev/progress/20)|[🔗](https://github.com/zogvc/billio-etal-2012-econometric-measures-of-connectedness)|
-|02|Hugo Hopenhayn and Richard Rogerson. 1993. "Job turnover and policy evaluation: A general equilibrium analysis." Journal of Political Economy 101(5):915-938.|![](https://geps.dev/progress/0)|[🔗]()|
+|02|Hugo Hopenhayn and Richard Rogerson. 1993. **"Job turnover and policy evaluation: A general equilibrium analysis."** Journal of Political Economy 101(5):915-938.|![](https://geps.dev/progress/0)|[🔗](https://github.com/zogvc/hopenhayn-rogerson-1993-job-turnover-and-policy-evaluation)|
 
 
 ## 😶‍🌫️ Miscellaneous
