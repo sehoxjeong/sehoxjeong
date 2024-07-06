@@ -52,7 +52,7 @@ Short-term projects (within 6 months) completed for non-academic objectives (e.g
 |:------|:-----------------------------------------------------------------------------|:--------------------------------------------------------------------|:-----|:------:|
 |JUN2024|**Corporate credit expansion, credit allocation and economic growth: Evidence from South Korea**|<ul> <li> Term paper for Topics in Economic Fluctuations (ECO6023) </ul> | |[🔗](https://github.com/zogvc/credit-misallocation-and-business-cycle)|
 |JUN2024|**Vector autoregressive neural network model for macroeconomic forecasting**|<ul> <li>Final project for Applied Statisitcs with Computer (MAT3430) </ul>  | |[🔗](https://github.com/zogvc/mlp-for-macroforecasting)|
-|JUN2023|**An analysis of investor behavior patterns preceding KOSPI market downturns**|<ul> <li>Term paper for Financial Market Analysis (ECO4032)</ul>                   | |[🔗](https://github.com/zogvc/kospi-fear-and-greed-index)|
+|JUN2023|**An analysis of investor behavior patterns preceding KOSPI market downturns**|<ul> <li>Term paper for Financial Market Analysis (ECO4032)</ul>                   |<ul> <li> Team project</ul> |[🔗](https://github.com/zogvc/kospi-fear-and-greed-index)|
 |JUN2020|**Beveridge curve worldwide**                                                 |<ul> <li>Term paper for Introduction to Big Data Programming (STS2011)</ul>        | |[🔗](https://github.com/zogvc/beveridge-curve-worldwide)|
 
 
