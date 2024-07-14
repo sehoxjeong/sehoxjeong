@@ -44,23 +44,22 @@ Machine learning for macroeconomics and finance. For both theoretical and empiri
 - `English`
 
 
-## 🧑‍💻 Short-Term Projects
+## 🧑‍💻 Research Projects
 
-Short-term projects (within 6 months) completed for non-academic objectives (e.g., assignments, competitions, self-initiated learning).
-
-|Date   |Title                                                                         |Results                                                              |Note|Link|
-|:------|:-----------------------------------------------------------------------------|:--------------------------------------------------------------------|:-----|:------:|
-|JUN2024|**Corporate credit expansion, credit allocation and economic growth: Evidence from South Korea**|<ul> <li> Term paper for Topics in Economic Fluctuations (ECO6023) </ul> | |[🔗](https://github.com/zogvc/credit-misallocation-and-business-cycle)|
-|JUN2024|**Vector autoregressive neural network model for macroeconomic forecasting**|<ul> <li>Final project for Applied Statisitcs with Computer (MAT3430) </ul>  | |[🔗](https://github.com/zogvc/mlp-for-macroforecasting)|
-|JUN2023|**An analysis of investor behavior patterns preceding KOSPI market downturns**|<ul> <li>Term paper for Financial Market Analysis (ECO4032)</ul>                   | |[🔗](https://github.com/zogvc/kospi-fear-and-greed-index)|
-|JUN2020|**Beveridge curve worldwide**                                                 |<ul> <li>Term paper for Introduction to Big Data Programming (STS2011)</ul>        | |[🔗](https://github.com/zogvc/beveridge-curve-worldwide)|
+|No.   |Title                                                                         |Results                                                              |Note|Link|
+|:-----:|:-----------------------------------------------------------------------------|:--------------------------------------------------------------------|:-----|:------:|
+|04|**Corporate credit expansion, credit allocation and economic growth: Evidence from South Korea**|<ul> <li> Term paper for Topics in Economic Fluctuations (ECO6023; Spring 2024) </ul> | |[🔗](https://github.com/zogvc/credit-misallocation-and-business-cycle)|
+|03|**Vector autoregressive neural network model for macroeconomic forecasting**|<ul> <li>Final project for Applied Statisitcs with Computer (MAT3430; Spring 2024) </ul>  | |[🔗](https://github.com/zogvc/mlp-for-macroforecasting)|
+|02|**An analysis of investor behavior patterns preceding KOSPI market downturns**|<ul> <li>Term paper for Financial Market Analysis (ECO4032; Spring 2023)</ul>                   | |[🔗](https://github.com/zogvc/kospi-fear-and-greed-index)|
+|01|**Beveridge curve worldwide**                                                 |<ul> <li>Term paper for Introduction to Big Data Programming (STS2011; Spring 2020)</ul>        | |[🔗](https://github.com/zogvc/beveridge-curve-worldwide)|
 
 
 ## 🧑‍🏫 Replications
 |No.   |Main Reference                                                                |Progress    |Link   |
 |:----:|:-----------------------------------------------------------------------------|:-------------|:-----:|
-|01|Monica Billio, Mila Getmansky, Andrew W. Lo, Loriana Pelizzon. 2012. **"Econometric measures of connectedness and systemic risk in the finance and insurance sectors."** Journal of Financial Economics 104:535-559.|![](https://geps.dev/progress/20)|[🔗](https://github.com/zogvc/billio-etal-2012-econometric-measures-of-connectedness)|
 |02|Hugo Hopenhayn and Richard Rogerson. 1993. **"Job turnover and policy evaluation: A general equilibrium analysis."** Journal of Political Economy 101(5):915-938.|![](https://geps.dev/progress/0)|[🔗](https://github.com/zogvc/hopenhayn-rogerson-1993-job-turnover-and-policy-evaluation)|
+|01|Monica Billio, Mila Getmansky, Andrew W. Lo, Loriana Pelizzon. 2012. **"Econometric measures of connectedness and systemic risk in the finance and insurance sectors."** Journal of Financial Economics 104:535-559.|![](https://geps.dev/progress/20)|[🔗](https://github.com/zogvc/billio-etal-2012-econometric-measures-of-connectedness)|
+
 
 
 ## 😶‍🌫️ Miscellaneous
