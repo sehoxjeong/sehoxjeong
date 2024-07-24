@@ -62,10 +62,11 @@ Machine learning for macroeconomics and finance. For both theoretical and empiri
 
 
 ## 😶‍🌫️ Miscellaneous
-[1] Currently studying: `macroeconomics`, `econometrics` (Summer 2024).
+[1] Currently studying: `macroeconomics`, `econometrics`, and `machine learning`.
 > Study notes can be found here.
 > - Macroeconomics [link](https://github.com/zogvc/macroeconomics)
 > - Econometrics [link](https://github.com/zogvc/econometrics)
+> - Machine Learning [link](https://github.com/zogvc/ml-reading-group)
 
 [2] Founding member and vice president of **Quantifi** ([🔗](https://github.com/QuantifiSogang)) (2023 - present)
 > - Team lead of *Macrofinance Lab* (2024 - present)
