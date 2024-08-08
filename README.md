@@ -27,28 +27,6 @@ I am interested in **how firms' financial decision making affects the economy an
 ### Languages
 `Korean` `English`
 
-
-## 🧑‍💻 Research Projects
-
-|No.   |Title                                                                         |Results                                                              |Note|Link|
-|:-----:|:-----------------------------------------------------------------------------|:--------------------------------------------------------------------|:-----|:------:|
-|04|**Corporate credit expansion, credit allocation and economic growth: Evidence from South Korea**|<ul> <li> Term paper for Topics in Economic Fluctuations (ECO6023; Spring 2024) </ul> | |[🔗](https://github.com/zogvc/credit-allocation-and-business-cycle)|
-|03|**Vector autoregressive neural network model for macroeconomic forecasting and causal inference**|<ul> <li>Final project for Applied Statisitcs with Computer (MAT3430; Spring 2024) </ul>  | |[🔗](https://github.com/zogvc/deep-learning-for-macroeconomics)|
-|02|**An analysis of investor behavior patterns preceding KOSPI market downturns**|<ul> <li>Term paper for Financial Market Analysis (ECO4032; Spring 2023)</ul>                   | |[🔗](https://github.com/zogvc/kospi-fear-and-greed-index)|
-|01|**Beveridge curve worldwide**                                                 |<ul> <li>Term paper for Introduction to Big Data Programming (STS2011; Spring 2020)</ul>        | |[🔗](https://github.com/zogvc/beveridge-curve-worldwide)|
-
-
-## 😶‍🌫️ Miscellaneous
-[1] Currently studying: `macroeconomics`, `econometrics`, and `machine learning`.
-> Study notes can be found here.
-> - Macroeconomics [link](https://github.com/zogvc/macroeconomics)
-> - Econometrics [link](https://github.com/zogvc/econometrics)
-> - Machine Learning [link](https://github.com/zogvc/ml-reading-group)
-
-[2] Founding member and vice president of **Quantifi** ([🔗](https://github.com/QuantifiSogang)) (2023 - present)
-> - Team lead of *Macrofinance Lab* (2024 - present)
-
-
 ## ✉️ Contact
 Please feel free to reach out to me by email at **seho6549@sogang.ac.kr** or **seho6549@naver.com**
 
