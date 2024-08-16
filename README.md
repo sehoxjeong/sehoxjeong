@@ -11,7 +11,7 @@ With a strong academic background and a passion for research, I am eager to purs
 ## 🤩 Research Interests
 I am interested in **how firms' financial decision making affects the economy and vice versa**. 
 
-**`macro-finance` `corporate finance` `financial intermediations` `firm dynamics` `network models` `machine learning`**
+**`corporate finance` `asset pricing` `financial intermediations` `macro-finance` `firm dynamics` `network models` `machine learning`**
 
 
 ## 👨‍🎓 Education
