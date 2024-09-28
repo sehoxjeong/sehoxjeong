@@ -8,10 +8,16 @@ With a strong academic background and a passion for research, I am eager to purs
 *I believe the sum is greater than its parts, and the difference originates from the connectedness.*
 
 
-## 🤩 Research Interests
+## 🤩 Research & Projects
 I am interested in **how firms' financial decision making affects the economy and vice versa**. 
 
 **`corporate finance` `asset pricing` `financial intermediations` `macro-finance` `firm dynamics` `network models` `machine learning`**
+
+### Selected Work in Progress
+
+|No.|Title                                                |Results                    |Links    |
+|:-:|:----------------------------------------------------|:--------------------------|:-------:|
+|01 |Aggregate Implications of IPOs                       |TBU                        |[🔗]()|
 
 
 ## 👨‍🎓 Education
