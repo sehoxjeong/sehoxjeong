@@ -15,7 +15,7 @@ I am interested in **how firms' financial decision making affects the economy an
 
 ### Selected Work in Progress
 
-|No.|Title                                                |Collaborators |Notes                      |Links    |
+|No.|Title                                                |Collaborators |Note                       |Links    |
 |:-:|:----------------------------------------------------|:-------------|:--------------------------|:-------:|
 |01 |**Aggregate Implications of IPOs**                   |TBU|TBU                        |[🔗]()|
 |02 |**Risk Management via Corporate Financial Networks** |TBU|TBU                        |[🔗]()|
