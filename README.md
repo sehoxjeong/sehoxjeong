@@ -17,7 +17,8 @@ I am interested in **how firms' financial decision making affects the economy an
 
 |No.|Title                                                |Collaborators |Notes                      |Links    |
 |:-:|:----------------------------------------------------|:-------------|:--------------------------|:-------:|
-|01 |Aggregate Implications of IPOs                       |TBU|TBU                        |[🔗]()|
+|01 |**Aggregate Implications of IPOs**                   |TBU|TBU                        |[🔗]()|
+|02 |**Risk Management via Corporate Financial Networks** |TBU|TBU                        |[🔗]()|
 
 
 ## 👨‍🎓 Education
