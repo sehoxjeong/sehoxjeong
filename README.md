@@ -17,8 +17,7 @@ I am interested in **how firms' financial decision making affects the economy an
 
 |No.|Title                                                               |Collaborators |Note                       |Links    |
 |:-:|:-------------------------------------------------------------------|:-------------|:--------------------------|:-------:|
-|01 |**Aggregate Implications of Going Public and Back to Private**      |TBU|TBU                        |[🔗]()|
-|02 |**Risk Management via Corporate Financial Networks**                |TBU|TBU                        |[🔗]()|
+|01 |**Risk Management via Corporate Financial Networks**                |TBU|TBU                        |[🔗]()|
 
 
 ## 👨‍🎓 Education
