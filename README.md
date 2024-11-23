@@ -13,12 +13,6 @@ I am interested in **how firms' financial decision making affects the economy an
 
 **`corporate finance` `asset pricing` `financial intermediations` `macro-finance` `firm dynamics` `network models` `machine learning`**
 
-### Selected Work in Progress
-
-|No.|Title                                                               |Collaborators |Note                       |Links    |
-|:-:|:-------------------------------------------------------------------|:-------------|:--------------------------|:-------:|
-|01 |**Risk Management via Corporate Financial Networks**                |TBU|TBU                        |[🔗]()|
-
 
 ## 👨‍🎓 Education
 \[1\] **Sogang University**, Seoul, South Korea. B.E. in *Economics*; B.Sc. in *Mathematics* (2019 - present)
