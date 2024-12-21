@@ -9,23 +9,9 @@ With a strong academic background and a passion for research, I am eager to purs
 
 
 ## 🤩 Research & Projects
-I am interested in **how firms' financial decision making affects the economy and vice versa**. 
+I am interested in **how firms' financial decision affects the economy and vice versa**. 
 
-**`corporate finance` `asset pricing` `financial intermediations` `macro-finance` `firm dynamics` `network models` `machine learning`**
-
-
-## 👨‍🎓 Education
-\[1\] **Sogang University**, Seoul, South Korea. B.E. in *Economics*; B.Sc. in *Mathematics* (2019 - present)
-> - Honors in *Financial Economics* <br>
-> - Completion of *Financial Economics track* and *Econometrics track*
-
-
-## 😎 Skills
-### Softwares & Programming languages
-`Python`  `Matlab` `Julia` `Stata`
-
-### Languages
-`Korean` `English`
+**`corporate finance` `financial intermediations` `macroeconomics` `machine learning`**
 
 ## ✉️ Contact
 Please feel free to reach out to me by email at **seho6549@sogang.ac.kr** or **seho6549@naver.com**
