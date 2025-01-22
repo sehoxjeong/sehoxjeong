@@ -16,6 +16,6 @@ I am interested in **how firms' financial decision affects the economy and vice 
 ## ✉️ Contact
 Please feel free to reach out to me by email at **seho6549@sogang.ac.kr** or **seho6549@naver.com**
 
-For more detailed information, please visit my [**webpage**](https://zogvc.github.io/)!
+For more detailed information, please visit my [**webpage**](https://zogvc.github.io/) (under construction)!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer" />
