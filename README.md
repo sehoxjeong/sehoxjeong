@@ -9,7 +9,8 @@ With a strong academic background and a passion for research, I am eager to purs
 
 
 ## 🤩 Research Interests
-I am interested in **how firms' financial decision affects the economy and vice versa**. 
+
+My primary academic interests lie in the interaction of macroeconomy and corporate financing, investment and credit risk. I am particularly interested in how firms' debt financing strategies influence firm-level investment and growth, as well as their implications for aggregate economic growth. Additionally, I aim to analyze whether financial markets allocate capital efficiently across the economy, recognizing that capital misallocation can hinder firms' ability to grow. Furthermore, I am interested in leveraging machine learning techniques to uncover previously unobserved firm characteristics, providing novel insights into the dynamics of firm.
 
 **`corporate finance` `financial intermediations` `macroeconomics` `machine learning`**
 
