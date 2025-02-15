@@ -11,7 +11,7 @@ My primary academic interests lie in the interaction of macroeconomy and corpora
 **`corporate finance` `financial intermediations` `macroeconomics` `machine learning`**
 
 ## ✉️ Contact
-Please feel free to reach out to me by email at **seho6549@sogang.ac.kr** or **seho6549@naver.com**
+Please feel free to reach out to me by email at **sehojeong[at]sogang[dot]ac[dot]kr**.
 
 For more detailed information, please visit my [**webpage**](https://zogvc.github.io/) (under construction)!
 
