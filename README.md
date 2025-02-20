@@ -6,7 +6,7 @@ I'm **Seho Jeong** and I study **financial economics** and **macroeconomics**. W
 
 ## 🤩 Research Interests
 
-My primary academic interests lie in the interaction of corporate financing and investment. I am particularly interested in how firms' debt financing strategies influence firm-level investment and growth, as well as their implications for aggregate economic growth. Additionally, I aim to analyze whether financial markets allocate capital efficiently across the economy, recognizing that capital misallocation can hinder firms' ability to grow. Furthermore, I am interested in leveraging machine learning techniques to uncover previously unobserved firm characteristics, providing novel insights into the dynamics of firm.
+My primary academic interests lie in interactions of corporate finance, asset pricing and macroeconomics. Currently I am particularly interested in how firms' debt financing strategies influence firm-level investment and growth, as well as their implications for aggregate economic growth and business cycle. Additionally, I aim to analyze whether financial markets allocate capital efficiently across the economy, recognizing that capital misallocation can hinder firms' ability to grow. Furthermore, I am interested in leveraging machine learning techniques to uncover previously unobserved firm characteristics, providing novel insights into the dynamics of firm.
 
 **`corporate finance` `asset pricing` `macroeconomics` `machine learning` `economic networks`**
 
