@@ -4,7 +4,7 @@
 
 ### Research Interests
 
-**`Asset Pricing`** **`Corporate Finance`** **`Macroeconomics`** **`Machine Learning`**
+**`asset pricing`** **`corporate finance`** **`macroeconomics`** **`machine learning`**
 
 ### Contact
 
