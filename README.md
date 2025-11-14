@@ -4,9 +4,9 @@
 
 ### Research Interests
 
-I am broadly interested in the interaction between financial markets and the real economy. My current work focuses on how financing frictions shape individual firm's capital structure. I also explore its implications on investment and employment, both on firm- and aggregate- level. 
+My research focuses on quantitatively analyzing the interaction between financial markets and the real economy. In my current work, I study how financial frictions faced by firms and financial intermediaries shape the dynamics of asset prices and corporate financing decisions.
 
-I am also interested in the role of financial intermediaries and institutional investors in areas of asset pricing and corporate finance, with a focus on how their demand for financial assets influences firms’ access to capital. Drawing on recent developments in demand-based and intermediary asset pricing, I aim to study how the behavior of investors affect asset prices and, in turn, real economic outcomes. I am also exploring the use of machine learning techniques to uncover latent firm characteristics and improve empirical strategy in this context.
+Within this broader agenda, my work emphasizes the role of financial intermediaries and institutional investors in shaping corporate financing, focusing on how their demand for financial assets influences firms’ access to capital. Drawing on recent developments in demand-based and intermediary asset pricing, I study how investors’ portfolio decisions transmit to asset prices and, in turn, to real economic outcomes. I am also exploring the use of machine learning methods to uncover latent firm characteristics and to improve the empirical identification of these channels.
 
 **`asset pricing`** **`financial institutions`** **`macroeconomics`** **`machine learning`**
 
