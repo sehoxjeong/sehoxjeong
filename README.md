@@ -4,7 +4,7 @@
 
 ### Research Interests
 
-My research focuses on quantitatively analyzing the interaction between financial markets and the real economy. I study how financial frictions faced by firms and financial intermediaries shape the dynamics of asset prices and corporate financing decisions.
+I am interested in quantitatively analyzing the interaction between financial markets and the real economy. I study how financial frictions faced by firms and financial intermediaries shape the dynamics of asset prices and corporate financing decisions.
 
 **`asset pricing`** **`financial institutions`** **`macrofinance`** **`machine learning`**
 
